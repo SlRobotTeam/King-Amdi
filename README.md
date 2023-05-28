@@ -25,7 +25,7 @@
 
 **[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### For heroku deployers: [![Deploy](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FSlRobotTeam%2FKing-Amdi)
 
 **[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
 
